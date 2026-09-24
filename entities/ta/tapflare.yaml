@@ -10,6 +10,7 @@ entity:
       valid_from: 2026-08-31T03:09:08.288Z
   category: design
 profile:
+  summary: Tapflare provides flat-rate, unlimited graphic design and website development by senior specialists, managed by a dedicated project manager.
   description: Tapflare provides subscription-based graphic design and website development through senior specialists managed by a dedicated project manager.
   links:
     site: https://tapflare.com
